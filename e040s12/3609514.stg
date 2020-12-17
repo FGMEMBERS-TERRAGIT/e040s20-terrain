@@ -1,0 +1,5 @@
+OBJECT_BASE 3609514.btg
+OBJECT FQMP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.350601 -11.370075 29.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 40.359149 -11.353503 28.9 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 40.354091 -11.361439 26.6 0.00
